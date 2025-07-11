@@ -21,7 +21,7 @@ App Development
 ML/DL Concepts
                * Model training and deployment: Classification, regression, clustering, recommendation systems.
                * NLP: For sports commentary generation, sentiment analysis, chatbots.
-               * Computer Vision (optional): For player movement tracking, pose estimation from videos.
+               * Computer Vision: For player movement tracking, pose estimation from videos.
 
 Tools & Libraries
                * Scikit-learn, XGBoost – traditional ML
